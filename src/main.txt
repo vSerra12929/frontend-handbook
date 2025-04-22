@@ -1,2 +1,3 @@
 Our handbook based on 10 years of experience in Frontend/JS development
 # clarify the control flow
+# handle the edge case from the last release
