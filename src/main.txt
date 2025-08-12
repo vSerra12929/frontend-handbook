@@ -20,3 +20,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # avoid re-reading the config on every call
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
