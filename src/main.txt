@@ -29,3 +29,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # clarify the control flow
 # match the style used in the rest of the module
 # guard against empty input
+# drop an unused branch
