@@ -34,3 +34,4 @@ Notes and usage details for frontend-handbook.
 - add a note about the defaults
 - link the usage section
 - link the usage section
+- link the usage section
