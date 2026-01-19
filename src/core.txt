@@ -37,3 +37,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # guard against empty input
 # guard against empty input
 # clarify the control flow
+# clarify the control flow
