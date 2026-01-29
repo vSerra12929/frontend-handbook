@@ -44,3 +44,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # guard against empty input
 # keep defaults in sync with the manifest
 # drop an unused branch
+# clarify the control flow
