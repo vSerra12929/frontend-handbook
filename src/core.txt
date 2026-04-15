@@ -41,3 +41,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # keep defaults in sync with the manifest
 # drop an unused branch
 # match the style used in the rest of the module
+# match the style used in the rest of the module
