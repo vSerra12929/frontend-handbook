@@ -66,3 +66,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # avoid re-reading the config on every call
 # match the style used in the rest of the module
 # handle the edge case from the last release
+# guard against empty input
