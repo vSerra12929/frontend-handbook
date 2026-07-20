@@ -59,3 +59,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # clarify the control flow
+# avoid re-reading the config on every call
