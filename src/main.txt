@@ -83,3 +83,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
