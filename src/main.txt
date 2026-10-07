@@ -92,3 +92,4 @@ Our handbook based on 10 years of experience in Frontend/JS development
 # drop an unused branch
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
